@@ -1,6 +1,8 @@
 # EBookstore
 Simulation of an Ebookstore using Python &amp; SQL
 
+![img](https://github.com/Thomasbamber99/EBookstore/blob/fe62a01a7a30b994a670ee940709be736909c322/img/Screenshot%20(32).png)
+
 # Features:
 
 Bookstore-Clerk allows the user to enter a book into a database, remove a book from said database and update any of the records individually. It also allows the user to search for book information using the id, title, author, or quantity of the book in the database. If the book isn't in the database a statement will be given to inform the user.
